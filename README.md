@@ -10,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 [![My Skills](https://skillicons.dev/icons?i=j,ps,html,css,js,react,angular,python,c,bootstrap,cpp,atom,codepen,d3,figma,github,java,mongodb,nodejs,xd,matlab,idea,eclipse,powershell,redux)](https://skillicons.dev)
 
+<br>
+<hr>
 <h3 align="left">▶ Connect with me:</h3>
 <p align="left">
   
