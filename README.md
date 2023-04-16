@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently done with react.. about to continue my backend skills
 - 💞️ I’m looking to collaborate on ..python project.
-- 📫 How to reach me .linkedin ngogajean@outlook.com..
+- 📫 How to reach me on jpngoga@gmail.com..
 
 <!---
 jpngoga/jpngoga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
