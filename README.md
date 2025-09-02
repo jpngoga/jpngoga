@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">▶ Connect with me:</h3>
 <p align="left">
   
-<a href="https://www.linkedin.com/in/ngoga-jean-paul-billy-%E6%AF%94%E5%88%A9-1a7525111/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="CodeBucks" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ngojepabilly/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="CodeBucks" height="30" width="40" /></a>
   <a href="https://www.instagram.com/ngojepabilly/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="jpngoga" height="30" width="40" /></a>
 <a href="https://codepen.io/jpngoga" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codepen.svg" alt="jpngoga" height="30" width="40" /></a>
 <a href="https://twitter.com/jpngoga" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="jpngoga" height="30" width="40" /></a>
