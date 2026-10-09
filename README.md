@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpngoga
-- 👀 I’m interested in ...web development
+- 👀 I’m an IT Support / Systems Support / Network Support / Junior Cybersecurity / Cloud Support / Chinese Interpreter
 - 🌱 I’m currently done with react.. about to continue my backend skills
 - 💞️ I’m looking to collaborate on ..python project.
 - 📫 How to reach me on jpngoga@gmail.com..
