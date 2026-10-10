@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.instagram.com/ngojepabilly/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="jpngoga" height="20" width="30"/></a>
 <a href="https://codepen.io/jpngoga" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codepen.svg" alt="jpngoga" height="20" width="30" /></a>
 <a href="https://twitter.com/jpngoga" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="jpngoga" height="20" width="30" /></a>
-<a href="https://www.facebook.com/ngoga.jeanpaul/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="jpngoga" height="20" width="30" /></a>
+
 
 
 </p>
