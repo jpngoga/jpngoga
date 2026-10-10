@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <hr>
 <br>
-
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=jpnoga&show_icons=true alt=jpngoga /> </p>
 ![jpngoga's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpngoga&show_icons=true&theme=radical)
 
 ## Lately I have been coding in:
