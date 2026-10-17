@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jpngoga good day
+- 👋 Hi, I’m @jpngoga wish you all a wonderfully evening 
 - 👀 I’m an IT Support / Systems Support / Network Support / Junior Cybersecurity / Cloud Support / Chinese Interpreter
 - 🌱 I’m currently done with react.. about to continue my backend skills
 - 💞️ I’m looking to collaborate on ..python project.
