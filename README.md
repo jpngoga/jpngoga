@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jpngoga 
+- 👋 Hi, I’m @jpngoga So Blessed to have an other day
 - 👀 I’m an IT Support / Systems Support / Network Support / Junior Cybersecurity / Cloud Support / Chinese Interpreter
 - 🌱 I’m currently done with react.. about to continue my backend skills
 - 💞️ I’m looking to collaborate on ..python project.
