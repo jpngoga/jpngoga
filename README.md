@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jpngoga Thank you God for this day i am so grateful. for everything 
+- 👋 Hi, I’m @jpngoga Thank you God for this day 
 - 👀 I’m an IT Support / Systems Support / Network Support / Junior Cybersecurity / Cloud Support / Chinese Interpreter
 - 🌱 I’m currently done with react.. about to continue my backend skills
 - 💞️ I’m looking to collaborate on ..python project.
