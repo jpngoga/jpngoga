@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="[https://linkedin.com/in/jpngoga](https://www.linkedin.com/in/ngojepabilly/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpngoga" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ngojepabilly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jpngoga" height="30" width="40" /></a>
 <a href="https://github.com/jpngoga" target="blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/Social/github.svg" alt="jpngoga" height="30" width="40" /></a>
   <a href="https://instagram.com/ngojepabilly" target="blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
 <a href="https://codepen.io/jpngoga" target="blank" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/Social/codepen.svg" alt="codebucks27" height="30" width="40" /></a>
