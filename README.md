@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-## Lately I have been coding in:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpngoga&theme=dracula)](https://github.com/jpngoga/github-readme-stats)
+
+
  
