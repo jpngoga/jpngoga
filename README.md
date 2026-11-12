@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpngoga Thank you God for blessing me on the 12th Nov 2026
 - 👀 I’m an IT Support / Systems Support / Network Support / Junior Cybersecurity / Cloud Support /Full-stack web developer/ Chinese 
-- 🌱 I’m currently done with react.. about to continue my backend skills
+- 🌱 I’m currently done with few Fullstack projects.. about to continue Cybersecurity skills
 - 💞️ I’m looking to collaborate on ..python project.
 - 📫 How to reach me on jpngoga@gmail.com..
 
