@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jpngoga Thank you God for blessing me on the 26th Nov 2026
+- 👋 Hi, I’m @jpngoga Thank you God for blessing me on the 27th Nov 2026
 - 👀 I’m an IT Support / Systems Support / Network Support / Junior Cybersecurity / Cloud Support /Full-stack web developer/ Chinese 
 - 💞️ I’m looking to collaborate on ..python project.
 - 📫 How to reach me on jpngoga@gmail.com..
